@@ -1,0 +1,91 @@
+
+
+.bg-container {
+    min-height: 100vh;
+}
+
+.single-page {
+    background-color: #ffa1a9;
+    color: #180566;
+    padding: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    max-width: 900px;
+}
+
+.icon-container {
+    width: 80px;
+    height: 80px;
+    border: 4px solid #180566;
+    border-radius: 100%;
+    padding: 9px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.icon-container-dark {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    padding: 9px;
+    text-align: center;
+    background-color: #180566;
+    color: #fc9fa7;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.icon-dark {
+    width: 50px;
+    height: 50px;
+}
+
+.profile-left-section {
+    border-right: 2px solid #180566;
+    border-bottom: 2px solid #180566;
+    padding: 12px;
+}
+
+.profile-left-heading {
+    font-size: 38px;
+}
+
+.profile-left-designation {
+    font-size: 18px;
+}
+
+.profile-right-section {
+    border-bottom: 2px solid #180566;
+    padding: 10px;
+}
+
+.work-container {
+    padding: 12px;
+    width: 100%;
+    border-bottom: 2px solid #180566;
+}
+
+.education-container {
+    padding: 10px;
+    width: 100%;
+}
+
+.interests-container {
+    padding: 12px;
+    border-bottom: 2px solid #180566;
+}
+
+.work-section-top-year {
+    margin-right: 18px;
+}
+
+.education-text-dots {
+    width: 7px;
+
+}
